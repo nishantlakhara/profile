@@ -1,0 +1,159 @@
+NISHANT LAKHARA
+Principal Engineer
+
+nishant.lakhara.280389@gmail.com
+9028590871
+Hyderabad, Telangana
+
+Summary
+======
+An experienced Principal / Lead Engineer with over 12+ years of experience in developing scalable, high-performance solutions across various domains, including eCommerce and finance. I have worked with clients such as Apple, Morgan Stanley, and Nomura. My expertise lies in Core Java, Spring Boot, Microservices, and cloud technologies like AWS. I have a proven track record of optimizing software, leading development teams, and delivering high-quality solutions. I am committed to continuous learning and improving development processes.
+
+
+Skills
+======
+ - Core Java (Expert)
+ - Spring Boot (Intermediate)
+ - Microservices
+ - Python
+ - Architecture
+ - Design
+ - Data Structures
+ - Optimization
+ - Rabbitmq
+ - Apache Kafka
+ - Hazelcast
+ - Hazelcast Compute
+ - Gemfire
+ - SQL
+ - Mongo DB
+ - HBASE
+ - CI CD
+ - Jenkins
+ - Nginx
+ - Docker
+ - Ansible
+ - Unix
+ - Shell Scripting
+ - Terraform
+ - Sumo Logic
+ - Shell Scripting
+ - React JS (Beginner)
+ - Vue JS (Beginner)
+ - Leadership
+ - Mentoring
+
+
+Key Achievements
+======
+Kafka Integration
+Integrated and deployed a secure Apache Kafka (MSK) architecture with SSL and SASL_SSL security mechanisms, ensuring encrypted communication and secure client connections. Integrated Kafka for real-time data streaming, significantly enhancing system scalability and enabling efficient, high-throughput data processing across distributed services. Added Kafka Debezium Connector integration with AWS RDS for real time client notifications to any update in the entities.
+
+Data Synchronization Optimization
+Optimized Data Synchronization: Integrated NO SQL HBase (MAPR) built on top of HDFS (Hadoop) as a third-layer caching solution in a high-performance orchestration system, reducing data synchronization time from over 2 hours to near-instantaneous, enhancing system efficiency and scalability by eliminating the secondary SQL cache layer.
+Added custom indexes in the application for faster retrieval of data and reduced hot spotting by careful key analysis in a clustered environment with nodes and replicas of HBASE.
+
+Automation & Performance Optimization
+Automated critical processes including commit, build, test, and deployment using Go pipelines and Ansible scripts, improving development efficiency and reducing deployment issues. Simultaneously, led JVM tuning efforts by transitioning from Mark Sweep to G1 GC, significantly reducing GC pauses and optimizing memory management. Also fine-tuned Hazelcast cache clusters and optimized data flow, resulting in enhanced system performance, scalability, and reliability under high loads.
+
+AWS Cost Optimization
+Reduced AWS infrastructure costs by 20-30% through strategic optimization of services like RDS, EC2, and Kafka, and fine-tuning CI/CD pipelines.
+
+Leadership and Mentorship
+Successfully mentored and led cross-functional teams, guiding 2-5 engineers through complex technical challenges and ensuring smooth onboarding and knowledge transfer across various projects.
+
+AI Augmented Engineering Adoption
+Leveraged AI-assisted development tools including GitHub Copilot, Windsurf Editor, and advanced LLMs such as Claude Opus to accelerate development, code reviews, and documentation generation across microservices. Currently undergoing advanced AI/ML training from Indian Institute of Technology Kharagpur, applying learned concepts to improve developer productivity and engineering workflows.
+
+Experience
+======
+Staff Engineer
+Walmart Global Tech India
+02/2025 - Present
+Bangalore
+
+Leading backend engineering initiatives across Real Estate and Supply Chain platforms, driving improvements in scalability, reliability, and service governance across multiple microservices.
+
+Introduced platform guardrails including contract testing, rate limiting, startup probes, and operational standards, significantly improving deployment safety and production stability.
+
+Led large-scale Spring Boot modernization from 2.7.x to 3.x.x using the GPT BOM adoption framework across ~25 services, strengthening dependency governance, security posture, and long-term platform maintainability.
+
+Drove cloud infrastructure optimization initiatives, identifying inefficiencies across services and reducing overall platform costs by ~25%.
+
+Architected centralized Kafka Connect–based integrations, replacing legacy scheduler-driven pipelines and enabling scalable event-driven data movement across services.
+
+Delivered key supply chain capabilities including warehouse replenishment unified screens, order tracking systems, and order reprocessing frameworks, improving operational visibility and recovery workflows.
+
+Principal Engineer
+Insightsoftware
+09/2023 - 01/2025
+Hyderabad
+ - Managed a team of 5 developers to build FastPost, a no-code, rule-driven accounting software utilizing Java Spring Boot, Vue.js, and AWS, while also integrating Hazelcast Cache and Jet Pipelines for scalable real-time data processing.
+ - Developed and ran end-to-end performance testing environments using Docker, Terraform, and Ansible, provisioning EC2 instances, RDS, and MSK Kafka Clusters for client deployments while optimizing AWS infrastructure, reducing AWS costs by 20-30%.
+ - Developed and deployed secure Apache Kafka (MSK) architecture with SSL and SASL_SSL security mechanisms for encrypted communication.
+ - Collaborated with Business Analysts, Product Owners, Leads to implement client requirements in banking products.
+
+Senior Backend Engineer
+Oportun (Intelizest Consultency)
+03/2022 - 07/2023
+Remote
+ - Led end-to-end feature development for a loan application microservices, including requirement gathering, coding, debugging, and deployment in the CI/CD pipeline.
+ - Collaborated with Product owners, architects, peers and leads on enhancement developments and bug fixes using TAR documents.
+ - Worked on Docmosis (DocuSign) and generalized 124 templates into just 2, increasing productivity.
+ - Conducted code/PR reviews, mentored a team of 2-3 engineers, and provided KT sessions for new joiners.
+
+Senior Consultant
+Morgan Stanley (Wissen Technology)
+01/2020 - 03/2022
+Mumbai
+ - Migrated legacy monolithic views to microservices architecture, integrating asynchronous messaging with TIBCO.
+ - Automated a 4-5 hour manual process using a Java Spring Boot framework, reducing verification time to minutes.
+ - Developed an exception tracking framework for Equity risk reporting using Python.
+ - Generated around 100 reconciliation reports for downstream flows using in-house tools.
+
+Senior Application Developer
+Nomura (AgiliteGroup)
+02/2017 - 01/2020
+Mumbai
+ - Created and optimized Web/REST services for risk calculations, involving technical design, development, deployment, testing, performance tuning, scripting, and automation.
+ - Designed and optimized orchestration architecture with Spring Boot and asynchronous messaging, managing data flow from RDS to Risk Engine and Aggregator. Exposed client APIs to ensure transactional consistency across services, following a SAGA-like pattern.
+ - Optimized data synchronization by integrating HBase on MapR as a second layer (first being Gemfire cache), replacing SQL. Reduced sync time from over 2 hours to near-instantaneous after processing millions of records. Disabled SQL layer post-production testing to further improve performance.
+ - Established a Prod Parallel environment using Autosys and Shell scripting, optimizing testing before moving code to production.
+
+Senior Software Engineer
+Apple (Appperfect Corporation, Wipro)
+02/2014 - 01/2017
+Udaipur
+ - Worked on Java web services (Order Service, Payment Service) for the Apple Online Store and mentored a team of 5 engineers through development, deployment, and troubleshooting.
+ - Automated commit, build, test, and integration processes using Go pipelines, streamlining deployments and ensuring high code quality.
+ - Automated RabbitMQ deployment to Linux machines with Ansible, improving update and verification efficiency.
+ - Developed clustering scripts for Hazelcast, RabbitMQ, and Solace, enhancing system scalability and reliability.
+ - Built and tuned a Hazelcast cluster (3 nodes), optimizing GC properties and transitioning to G1 GC, reducing GC pauses and improving memory management for large heaps.
+ - Led a POC on Apache Traffic Server and NGINX reverse proxies, evaluating load balancing and traffic management solutions.
+ - Led a team of 5 in various development tasks and guided them through the deployment process.
+
+Software Engineer
+Geometric Limited
+08/2011 - 01/2014
+Pune
+ - Gathered requirements and prepared Technical Approach documents for system integration.
+ - Enhanced system efficiency by {15%} through development of {5} integration connectors using Core Java.
+
+
+Education
+======
+BTech in Computer Science 8.8 CGPA Gold Medalist: Batch Topper
+Sir Padampat Singhania University
+08/2007 - 06/2011
+Udaipur
+
+CBSE 12th Board in Science and Maths 86.4%
+Alok Senior Secondary School
+01/2006 - 01/2007
+Udaipur, Rajasthan
+
+
+Training / Courses
+======
+Oracle Certified Java Professional
+
